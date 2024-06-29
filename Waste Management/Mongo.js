@@ -103,8 +103,8 @@ const collection = mongoose.model('Tut', tutSchema);
 // Data to be inserted into the MongoDB collection
 const data = [
     {
-        name: "Ayushman",
-        email: "Ayushman123@gmail.com",
+        name: "Ankita",
+        email: "Ankita09@gmail.com",
         password: "12345678", // It's good practice to use `password` instead of `Password`
     },
     {
